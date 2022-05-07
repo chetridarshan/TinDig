@@ -132,18 +132,15 @@ p{
 
  /* Pricing Section */
 
-#pricing {
-  padding: 100px;
-}
+#pricing{
+    padding: 100px 250px;
+    text-align: center;
+  }
 
-.price-text {
-  font-size: 3rem;
-  line-height: 1.5;
-}
+  .pricing-col{
+    padding:3% 4%
+  }
 
-.pricing-column {
-  padding: 3% 2%;
-}
   @media(max-width: 1028px) {
 
     .title-image{
